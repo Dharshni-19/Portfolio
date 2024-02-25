@@ -23,6 +23,7 @@ body{
     background: var(--bg-color);
     color: var(--text-color);
 } 
+
 .header{
     position: fixed;
     top: 0;
@@ -35,6 +36,7 @@ body{
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    
 
-
-    }
+}
+#white { color: white !important; }
